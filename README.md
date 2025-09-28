@@ -1,0 +1,1 @@
+In this repository, you will find a combination of theory and practice. The files were written to explain the theoretical concepts, followed by their code implementation. The main library used is PyMC.
